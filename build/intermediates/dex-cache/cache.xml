@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sadhi\OneDrive\Documents\Android\DynamicData\app\libs\achartengine-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="C:\Users\sadhi\OneDrive\Documents\Android\DynamicData\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.0.0_0451974c3a35b4ec15b8b8f920cb261170e62fe5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sadhi\OneDrive\Documents\Android\DynamicData\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3f38e3da66f30cf0b82e3f0fbe469893af62a8cd">
+        <dex dex="C:\Users\sadhi\OneDrive\Documents\Android\DynamicData\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8421fded35e5f7a89e732606f99a0b83e289dc46\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sadhi\OneDrive\Documents\Android\DynamicData\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="502003ae964d5013fe9d12e53cc272062931f9b0">
+        <dex dex="C:\Users\sadhi\OneDrive\Documents\Android\DynamicData\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f91661ec2674977b0fbc6a12013b769d3a3f8d2e\classes.dex" />
+    </item>
+
+</items>
