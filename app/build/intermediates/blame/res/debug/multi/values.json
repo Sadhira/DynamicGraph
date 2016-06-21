@@ -7,8 +7,8 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 49,
-                    "endOffset": 100
+                    "endColumn": 48,
+                    "endOffset": 99
                 },
                 "from": {
                     "file": "C:\\Users\\sadhi\\OneDrive\\Documents\\Android\\DynamicData\\app\\src\\main\\res\\values\\strings.xml",
@@ -16,8 +16,8 @@
                         "startLine": 4,
                         "startColumn": 4,
                         "startOffset": 129,
-                        "endColumn": 49,
-                        "endOffset": 174
+                        "endColumn": 48,
+                        "endOffset": 173
                     }
                 }
             },
@@ -25,9 +25,9 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 105,
+                    "startOffset": 104,
                     "endColumn": 68,
-                    "endOffset": 169
+                    "endOffset": 168
                 },
                 "from": {
                     "file": "C:\\Users\\sadhi\\OneDrive\\Documents\\Android\\DynamicData\\app\\src\\main\\res\\values\\strings.xml",
